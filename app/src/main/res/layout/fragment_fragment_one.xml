@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FragmentOne">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:text="Bienvenue sur Epicture"
+        android:textColor="#000"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vous êtes nouveau sur l'application ?\n\nNe vous inquiètez nous allons vous expliquer comment marche cette merveilleuse appication.\n\nVous avez actuellement accès à la partie 'Feed' sur laquelle vous pouvez chercher une catégorie d'image grâce à un mot clé.\n\nVous pouvez également vous rendre sur la partie 'Profile' qui vous permet de consulter les photos que vous avez déjà ajouté sur votre profil.\n\nLorsque vous aurez fini de vous balader sur Epicture vous aurez le choix de vous déconnecter grâce à un petit menu présent en haut à droite de l'application, ou bien de rester connecté !\n\nJe vous souhaite de passer un agréable moment sur Epicture :)"
+        android:layout_marginTop="80dp"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+</FrameLayout>

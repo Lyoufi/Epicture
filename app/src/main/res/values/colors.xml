@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C273C</color>
+    <color name="colorPrimaryDark">#1F1C26</color>
+    <color name="colorAccent">#CE2A5E</color>
+    <color name="secondPagef">#715789</color>
+    <color name="secondPages">#8C71A4</color>
+    <color name="toolbarcolor">#7410CB</color>
+    <color name="searchbar">#7F2AB0</color>
+    <color name="bordprof">#745f87</color>
+
+    <color name="white">#fff</color>
+</resources>
